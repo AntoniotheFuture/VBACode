@@ -1,0 +1,12 @@
+{
+    "app_name": "XVBA",
+    "description": "",
+    "author": "",
+    "email": "",
+    "create_ate": "Mon Mar 01 2021 17:44:04 GMT+0800 (中国标准时间)",
+    "excel_file": "加密货币新闻网址.xlsm",
+    "vba_folder": "vba-files",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}
