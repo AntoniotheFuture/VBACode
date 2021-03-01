@@ -1,0 +1,12 @@
+{
+    "app_name": "XVBA",
+    "description": "",
+    "author": "",
+    "email": "",
+    "create_ate": "Mon Mar 01 2021 18:22:27 GMT+0800 (中国标准时间)",
+    "excel_file": "人工识别验证码简易查询工具.xlsm",
+    "vba_folder": "vba-files",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}

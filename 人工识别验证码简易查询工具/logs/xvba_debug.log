@@ -1,0 +1,19 @@
+2021-03-01 18:22:20 info: XVBA Live Server extension is now active!
+2021-03-01 18:22:20 debug: Start Watch Excel Export VBA Files
+2021-03-01 18:22:20 debug: Start Run Macro Server
+2021-03-01 18:22:27 info: config.json File Created with Success!!!
+2021-03-01 18:22:27 info: gitignore file created with success
+2021-03-01 18:22:27 info: package.json File created with Success
+2021-03-01 18:22:27 info: Folder already exist: Logs Folder
+2021-03-01 18:22:27 info: Bootstrap XVBA
+2021-03-01 18:22:27 info: Finish Create Xvba project folders
+2021-03-01 18:22:34 info: Start Import VBA files
+2021-03-01 18:22:34 debug: Delete temp Files Success!
+2021-03-01 18:22:34 debug: Command Status: Command Run
+2021-03-01 18:22:34 debug: Finish Exported file from Vscode to Excel
+2021-03-01 18:22:37 debug: Start Move VBA files from tmp to Workspace
+2021-03-01 18:22:37 debug: Move vba file Main.bas namespace: default
+2021-03-01 18:22:38 debug: Move vba file MainForm.frm namespace: default
+2021-03-01 18:22:38 debug: Move vba file Other.bas namespace: default
+2021-03-01 18:22:38 debug: Move vba file 公共变量.bas namespace: default
+2021-03-01 18:22:38 debug: Finish Move VBA files from tmp to Workspace
